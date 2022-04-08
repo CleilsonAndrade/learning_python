@@ -1,0 +1,5 @@
+;Esta linha não deve ser impressa
+> Texto alinhado a direita
+* Texto centralizado
+Uma linha normal
+Outra linha
